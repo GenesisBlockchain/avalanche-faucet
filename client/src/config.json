@@ -1,10 +1,10 @@
 {
-    "banner": "/banner.png",
-    "apiBaseEndpointProduction": "/api/",
-    "apiBaseEndpointDevelopment": "http://localhost:8000/api/",
-    "apiTimeout": 10000,
-    "CAPTCHA": {
-        "siteKey": "6LerTgYgAAAAALa7WiJs3q0pM30PH6JH4oDi_DaK",
-        "action": "faucetdrip"
-    }
+  "banner": "/banner.png",
+  "apiBaseEndpointProduction": "/api/",
+  "apiBaseEndpointDevelopment": "http://localhost:8000/api/",
+  "apiTimeout": 10000,
+  "CAPTCHA": {
+    "siteKey": "6Ld2BsoeAAAAAJ65iHEluo4-aD7Q4x33v433s7Wi",
+    "action": "faucetdrip"
+  }
 }
